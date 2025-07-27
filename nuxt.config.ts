@@ -15,6 +15,11 @@ export default defineNuxtConfig({
         // Specify custom delimiter (default is ',')
         delimiter: ','
       }
-    }
-  }
+    },
+
+  },
+  ssr: true,
+
+
+
 })
