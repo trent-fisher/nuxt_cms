@@ -10,7 +10,7 @@ navigation:
 <!-- ![hero](/public/images/about-us/about-us-mobile-hero.jpg) -->
 
 ::my-alert
-![desktop-hero.jpg](/images/home/desktop-hero.jpg)
+![desktop-hero.jpg](/desktop-hero.jpg)
 ::
 
 # Welcome to Azizi Luxury Developments
