@@ -20,6 +20,10 @@ export default defineNuxtConfig({
   },
   ssr: true,
 
+  // tailwindcss: {
+  //   cssPath: ['~/assets/css/tailwind.css', { injectPosition: "first" }]
+  // },
+
 
 
 })

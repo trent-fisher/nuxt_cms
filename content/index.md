@@ -8,3 +8,9 @@ Here is some content.
 Checkout the [about page](/about)
 ::
 
+<!-- 
+::MyAlert
+![house](/public/3d-rendering-house-model.jpg)
+:: -->
+
+
