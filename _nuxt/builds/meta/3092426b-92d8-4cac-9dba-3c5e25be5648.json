@@ -1,0 +1,1 @@
+{"id":"3092426b-92d8-4cac-9dba-3c5e25be5648","timestamp":1753700440603,"matcher":{"static":{"/__nuxt_content/content/sql_dump.txt":{"prerender":true},"/__nuxt_content/blog/sql_dump.txt":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/services","/about-us","/projects","/contact-us","/blog","/blog/bar","/blog/foo"]}
