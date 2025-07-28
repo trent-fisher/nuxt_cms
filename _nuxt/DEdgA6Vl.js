@@ -1,0 +1,1 @@
+import{_ as o,f as n,g as c,j as t,Y as s}from"./D7yCY7kc.js";const r={},a={class:"text-2xl text-center pt-10"},l={class:"pt-10 pb-10 flex justify-center relative"};function i(e,_){return c(),n("section",null,[t("div",a,[s(e.$slots,"text")]),t("div",l,[s(e.$slots,"image")])])}const f=o(r,[["render",i]]);export{f as default};

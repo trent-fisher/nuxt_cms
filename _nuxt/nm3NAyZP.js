@@ -1,0 +1,1 @@
+import{_ as e,f as o,g as s,Y as n}from"./D7yCY7kc.js";const r={},c={class:"btn-primary"};function a(t,_){return s(),o("button",c,[n(t.$slots,"default")])}const l=e(r,[["render",a]]);export{l as default};
