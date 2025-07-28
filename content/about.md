@@ -16,7 +16,5 @@ We strive to deliver high-quality solutions that empower our clients to achieve 
 
 This is a page.
 
-::MyAlert
+::my-alert
 ::
-
-
