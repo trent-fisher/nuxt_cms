@@ -1,20 +1,10 @@
 <template>
-  <ContentRenderer v-if="home" :value="home" />
-  <div v-else>Home not found</div>
-  <!-- <img src="/assets/Luxury-9.png" alt=""> -->
+  <div class="">
 
-  <ul>
-    <li>
-      test
-    </li>
-    <li>
-      test
-    </li>
-    <li>
-      test
-    </li>
-  </ul>
+    <ContentRenderer v-if="home" :value="home" />
+    <div v-else>Home not found</div>
 
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -25,5 +15,8 @@ useSeoMeta({
   description: home.value?.description
 })
 
+definePageMeta({
+	layout: 'default',
+});
 
 </script>
