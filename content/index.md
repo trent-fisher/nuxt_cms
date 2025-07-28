@@ -13,7 +13,16 @@ navigation:
 ![desktop-hero.jpg](/desktop-hero.jpg)
 ::
 
-# Welcome to Azizi Luxury Developments
+
+::section-component
+#text
+Welcome to
+Azizi Luxury Developments
+#image
+![sectionImage](/luxury-6.jpg)
+::
+
+
 
 ## Blogs
 
@@ -21,9 +30,8 @@ navigation:
 
 [Blog](/blog)
 
-::button
+::button-
 my button
 ::
 
-<!-- ::my-alert
-:: -->
+

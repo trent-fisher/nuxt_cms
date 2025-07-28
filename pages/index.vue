@@ -1,8 +1,7 @@
 <template>
   <div class="">
-
-    <ContentRenderer v-if="home" :value="home" />
-    <div v-else>Home not found</div>
+      <ContentRenderer v-if="home" :value="home" />
+      <div v-else>Home not found</div>
 
   </div>
 </template>
@@ -16,7 +15,7 @@ useSeoMeta({
 })
 
 definePageMeta({
-	layout: 'default',
+  layout: 'default',
 });
 
 </script>
