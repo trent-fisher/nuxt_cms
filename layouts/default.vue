@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen flex flex-col">
     <!-- Header -->
-    <div class="">
+    <div class="pb-24">
       <Header />
     </div>
 
