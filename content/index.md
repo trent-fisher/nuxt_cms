@@ -21,10 +21,6 @@ navigation:
 
 [Blog](/blog)
 
-::card{headline="headline"}
-# Card
-::
-
 ::button
 my button
 ::
