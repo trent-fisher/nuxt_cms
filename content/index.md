@@ -9,11 +9,14 @@ navigation:
 
 # Welcome to Azizi Luxury Developments
 
-::prose-table
-::
+
 
 ::card{headline="headline"}
 # Card
+::
+
+::button
+my button
 ::
 
 <!-- ::my-alert

@@ -4,10 +4,17 @@
   <!-- <img src="/assets/Luxury-9.png" alt=""> -->
 
   <ul>
-    <li v-for="author in authors" :key="author.id">
-      {{ author.name }} ({{ author.email }})
+    <li>
+      test
+    </li>
+    <li>
+      test
+    </li>
+    <li>
+      test
     </li>
   </ul>
+
 </template>
 
 <script setup lang="ts">
