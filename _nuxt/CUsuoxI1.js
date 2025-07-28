@@ -1,1 +1,0 @@
-import{_ as s,f as t,k as a,Y as c}from"./CncCQ9c3.js";const r={},o={class:"card"};function d(e,n){return a(),t("div",o,[c(e.$slots,"default",{},void 0,!0)])}const f=s(r,[["render",d],["__scopeId","data-v-a3d7c562"]]);export{f as default};

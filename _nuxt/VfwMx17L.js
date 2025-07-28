@@ -1,0 +1,1 @@
+import{_ as o,S as n,f as s,k as r,i as a,h as c}from"./tjuSHCBC.js";const _=""+new URL("Luxury-9.jO49oX4s.png",import.meta.url).href,l={},d={class:"alert-box"};function m(p,e){const t=n("ContentSlot");return r(),s("div",d,[e[0]||(e[0]=a("img",{src:_,alt:""},null,-1)),c(t)])}const f=o(l,[["render",m],["__scopeId","data-v-b082b2de"]]);export{f as default};
