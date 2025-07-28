@@ -25,17 +25,5 @@ useSeoMeta({
   description: home.value?.description
 })
 
-// Find a single author
-const { data: author } = await useAsyncData('john-doe', () => {
-  return queryCollection('authors')
-    .where('name', '=', 'John Doe')
-    .first()
-})
 
-// Get all authors
-const { data: authors } = await useAsyncData('authors', () => {
-  return queryCollection('authors')
-    .order('name', 'ASC')
-    .all()
-})
 </script>

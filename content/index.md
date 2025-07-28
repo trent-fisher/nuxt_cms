@@ -9,7 +9,9 @@ navigation:
 
 # Welcome to Azizi Luxury Developments
 
-
+## Blogs
+---
+[Blog](/blog)
 
 ::card{headline="headline"}
 # Card
