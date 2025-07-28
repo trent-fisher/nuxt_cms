@@ -1,16 +1,20 @@
+---
+navigation:
+  title: /luxury-6.jpg
+  description: navigation to the about us page
+  icon: i-material-symbols-account-child-rounded
+---
+
 # My First Page
 
 # Welcome to Azizi Luxury Developments
 
-::card{class="/3d-rendering-house-model.jpg"}
-Here is some content.
-
-Checkout the [about page](/about)
+::prose-table
 ::
 
-Azizi Luxury Developments offers exquisite, sophisticated homes designed for discerning buyers. Our properties feature stunning architecture, opulent interiors, and prime locations, providing a sanctuary of comfort, elegance, and tranquility. Discover your dream home and experience a unique living space that reflects success, style, and serenity.
+::card{headline="headline"}
+# Card
+::
 
-<!-- 
-::MyAlert
-![house](/public/3d-rendering-house-model.jpg)
+<!-- ::my-alert
 :: -->
